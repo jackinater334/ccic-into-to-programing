@@ -1,6 +1,6 @@
 public class Snake{
-  int x;
-  int y;
+  int x=0;
+  int y=0;
   String currentDirection;
  //snake starting pont
   public Snake(){
